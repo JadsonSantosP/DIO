@@ -1,3 +1,6 @@
+![imagem](https://blog.umbler.com/wp-content/uploads/2018/07/post-18-07-25-GIT-1024x546.png)
+
+
 # O que é o Git?
 
 O Git é um sistema de controle de versão distribuído
