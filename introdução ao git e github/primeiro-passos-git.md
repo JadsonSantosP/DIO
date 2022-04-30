@@ -47,5 +47,5 @@ Este comando é muito útil quando estamos desenvolvendo um projeto em equipe e 
 
 # Obter status
 
-ara obter o status das alterações feitas nos arquivos do repositório.
+Para obter o status das alterações feitas nos arquivos do repositório.
 
