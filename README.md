@@ -1,5 +1,8 @@
 # Projeto DIO
 
+# Spread Fullstack Developer
+
+O Bootcamp Spread Fullstack Developer é um programa para pessoas que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto em back-end. Usando ferramentas com; controle de versionamento Git e ao GitHub, desenvolvimento com HTML, CSS, JS, TypeScript e utilizando tecnologias como React e no Backend; MySql e NodejS
 
 ## Iniciando o projeto git
 Desafio de projeto git/github - DIO
